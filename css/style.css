@@ -1,0 +1,145 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+
+.main-title {
+display: inline;
+vertical-align: middle;
+font-size: 48px;
+}
+
+.header {
+    display: inline;
+    line-height: 200px;
+    }
+
+.container-title {  
+   margin: 0;
+        } 
+        
+.container {  
+    margin: 0 auto;
+    width: 1000px;
+    height: 1000px;
+         } 
+
+.task {
+    background-color: rgb(88, 173, 253);
+    color: white;
+    width: 140px;
+    border-radius: 10%;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    }
+
+.section {
+    background-color: white;
+    color: rgb(139, 139, 139);
+    width: 140px;
+    border-radius: 10%;
+    font-size: 30px;
+    text-align: center;
+    padding: 15px;
+    margin: 10px;
+    border: 1px solid rgb(139, 139, 139);
+    }
+
+.section1 {
+    margin-top: 50px;
+    font-size: 20px;
+}
+
+ul {
+   list-style-type: none;
+}
+
+
+.check {
+    color: green;
+    border: 1px solid green;
+    border-radius: 50%;
+    margin-right: 10px;
+ }
+
+ .editorial {
+    color: white;
+    background-color: rgb(88, 173, 253);
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+    
+ }
+
+ .goals {
+    color: white;
+    background-color: purple;
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+   
+ }
+
+ .cross {
+    color: red;
+    border: 1px solid red;
+    border-radius: 50%;
+    margin-right: 10px;
+}
+
+.recruiting {
+    color: white;
+    background-color: green;
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+   
+ }
+
+ .mobile {
+    color: white;
+    background-color: orange;
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+   
+ }
+
+ .website {
+    color: white;
+    background-color: hotpink;
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+   
+ }
+
+ .sales {
+    color: white;
+    background-color: lime;
+    width: 160px;
+    border-radius: 40%;
+    font-size: 15px;
+    text-align: center;
+    padding: 10px;
+    margin: 10px;
+   
+ }
